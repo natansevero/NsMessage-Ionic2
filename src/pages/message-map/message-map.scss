@@ -1,0 +1,22 @@
+page-message-map {
+
+}
+
+.scroll {
+  height: 100px;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+.box {
+  background: white;
+  position: absolute;
+  width: 90%;
+  left: 5%;
+  top: 5%;
+  box-shadow: 5px 6px 14px -5px;
+  z-index: 9999;
+}
